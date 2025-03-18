@@ -3,3 +3,4 @@ cd -> muda você de diretório (change directory)
 pwd -> mostra o caminho absoluto de onde você está
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório
+rm -rf -> remove de forma forçada e recursiva todos os arquivos
