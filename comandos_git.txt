@@ -3,3 +3,12 @@ git status -> mostra o status do trabalho
 git add -> adiciona arquivo para ser commitado
 git commit -m -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commits
+
+• Fluxo de trabalho com GitBash
+	1. Criar o diretório do projeto (mkdir)
+	2. Iniciar o git (git init .)
+	3. Edita ou cria arquivos (nano)
+	4. Verifica o status (git status)
+	5. Adiciona o arquivo para o commit (git add)
+	6. Commita o arquivo (git commit -m)
+	7. Volta para o passo 3
