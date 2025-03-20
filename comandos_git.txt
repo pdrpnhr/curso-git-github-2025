@@ -1,8 +1,8 @@
-git init .  -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho
-git add -> adiciona arquivo para ser commitado
-git commit -m -> faz commit do que estava para ser commitado
-git log -> mostra todo o histórico de commits
+git init .  			-> Cria um repo git na pasta atual
+git status 			-> Mostra o status do trabalho
+git add 			-> Adiciona arquivo para ser commitado
+git commit -m 			-> Faz commit do que estava para ser commitado
+git log 			-> Mostra todo o histórico de commits
 
 • Fluxo de trabalho com GitBash
 	1. Criar o diretório do projeto (mkdir)
